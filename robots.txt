@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atoxuibi.github.io/COd/sitemap_index.txt
+Sitemap: https://atoxuibi.github.io/RZp/sitemap_index.txt
+Sitemap: https://atoxuibi.github.io/Xsh/sitemap_index.txt
+Sitemap: https://atoxuibi.github.io/etl/sitemap_index.txt
